@@ -5,11 +5,7 @@
 # Hello World! - Voltage
 
 <!-- Badges -->
-![](https://img.shields.io/badge/Kernel-Linux-informational?style=flat&logo=linux&logoColor=white&color=1793d1)
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=1793d1)
-![](https://img.shields.io/badge/CPU-AMD-informational?style=flat&logo=amd&logoColor=white&color=1793d1)
-![](https://img.shields.io/badge/GPU-NVIDIA-informational?style=flat&logo=nvidia&logoColor=white&color=1793d1)
-![](https://img.shields.io/badge/Compositor-Wayland-informational?style=flat&logo=wayland&logoColor=white&color=1793d1)
 ![](https://img.shields.io/badge/WM-Hyprland-informational?style=flat&logo=hyprland&logoColor=white&color=1793d1)
 ![](https://img.shields.io/badge/Terminal-Kitty-informational?style=flat&logo=gnome-terminal&logoColor=white&color=1793d1)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnubash&logoColor=white&color=1793d1)
@@ -61,7 +57,7 @@ Some people find my personality unusual or abrasive, but if you respect curiosit
 ## Contact Me
 ### General/Dev & Tech
 - Email: [voltage.gateway@gmail.com](mailto:voltage.gateway@gmail.com)
-- GitHub: [Voltage-86](https://github.com/Voltage-86)
+- GitHub: [voltage-86](https://github.com/voltage-86)
 - Discord: [voltage86](https://discord.com/users/voltage86)
 - IRC Libera Chat: voltage86!~user@libera/user/voltage86
 - Matrix: @voltage86:matrix.org
@@ -71,7 +67,9 @@ Some people find my personality unusual or abrasive, but if you respect curiosit
 - Twitch: [prodbyvolt](https://www.twitch.tv/prodbyvolt)
 - Reddit: [voltage-86](https://reddit.com/u/voltage-86)
 ### Gaming
-- Steam: [voltage](https://steamcommunity.com/profiles/76561199840312199)
+- Steam: [voltage86](https://steamcommunity.com/profiles/76561199840312199)
 - Roblox: [889985406612](https://roblox.com/users/309843262/profile)
 - Tetrio: [VOLTAGE86](https://ch.tetr.io/u/voltage86)
-
+- Minecraft
+  - Java: voltage86
+  - Bedrock: prodbyvolt
