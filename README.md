@@ -33,7 +33,7 @@ I enjoy playing skill based or classical games, Roblox, Minecraft, Tetris, Mines
 
 ## Skills & Interests
 - **Programming:** Rust, Python, Lua (Including Roblox Luau), HTML, CSS, JavaScript, SQL, Markdown, Batch, Bash/Zsh
-- **Platforms:** Linux (Arch), FL Studio, Davinci Resolve, Roblox Studio
+- **Platforms:** Linux (Arch), Tracktion Waveform, Davinci Resolve, Roblox Studio
 - **Cybersecurity:** Red Teaming, Hack The Box, Hacker One, Try Hack Me, Hack This Site
 - **Music & Content:** Producing Hyperpop, Digicore, Pop Punk, Emo Rock, and Metalcore beats, playing guitar, making videos
 
@@ -62,7 +62,10 @@ Some people find my personality unusual or abrasive, but if you respect curiosit
 - IRC Libera Chat: voltage86!~user@libera/user/voltage86
 - Matrix: @voltage86:matrix.org
 ### Media
-- YouTube: [@voltage86](https://www.youtube.com/@voltage86)
+- YouTube:
+  - Main / Tech: [@devbyvolt](https://www.youtube.com/channel/UC5E5z54o4bWmvuid1By9wvA)
+  - Gaming: [@voltage86](https://www.youtube.com/channel/UCrESlHE_FPNAe4HlF_0VYdQ)
+  - Music: [@prodbyvolt86](https://www.youtube.com/channel/UC2KutyzrejkLWqGWr8_es6w)
 - Instagram: [prodbyvolt](https://www.instagram.com/prodbyvolt)
 - Twitch: [prodbyvolt](https://www.twitch.tv/prodbyvolt)
 - Reddit: [voltage-86](https://reddit.com/u/voltage-86)
