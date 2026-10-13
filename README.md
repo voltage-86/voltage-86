@@ -62,7 +62,7 @@ Some people find my personality unusual or abrasive, but if you respect curiosit
 - IRC Libera Chat: voltage86!~user@libera/user/voltage86
 - Matrix: @voltage86:matrix.org
 ### Media
-- YouTube:
+- YouTube
   - Main / Tech: [@devbyvolt](https://www.youtube.com/channel/UC5E5z54o4bWmvuid1By9wvA)
   - Gaming: [@voltage86](https://www.youtube.com/channel/UCrESlHE_FPNAe4HlF_0VYdQ)
   - Music: [@prodbyvolt86](https://www.youtube.com/channel/UC2KutyzrejkLWqGWr8_es6w)
